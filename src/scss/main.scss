@@ -1,0 +1,26 @@
+
+.ignoreit
+{
+    width:  200px;
+    margin: 25px auto;
+
+    input
+    {
+        display: block;
+        width:   100%;
+        height:  22px;
+        padding: 0;
+        margin:  0;
+
+    } // input
+
+    .fake-ph
+    {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:   13px;
+
+    } // .fake-ph
+
+} // .ignoreit
+
+@import "mplaceholder";
